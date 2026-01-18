@@ -1,0 +1,17 @@
+{
+  "title": "Mod",
+  "description": "Lo que quieras",
+  "contributors": [
+    {
+      "name": "Cat64Game",
+      "role": "Main Leader, Coder."
+    },
+    {
+      "name": "Ari Love",
+      "role": "Main Leader, Coder."
+    }
+  ],
+  "api_version": "0.8.1",
+  "mod_version": "2.2.1",
+  "license": "Apache-2.0"
+}
